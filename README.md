@@ -12,7 +12,7 @@ This temperature converter application converts from Fahrenheit to Celsius and f
 
 This application uses a CSS framework called [Bootstrap](https://getbootstrap.com/) to create the user interface. This application is fully responsive to all screen sizes.
 
-<img src="images/temperature-converter.png">
+<img src="dist/images/temperature-converter.png">
 
 ## Setup/Installation Requirements
 
